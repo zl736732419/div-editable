@@ -9,6 +9,7 @@
  *
  */
 (function($) {
+	"use strict";
     $.elementDragDiv = {
         settings: {
             callback: null

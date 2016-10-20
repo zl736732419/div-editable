@@ -22,6 +22,7 @@
  * }
  */
 (function($) {
+	"use strict";
     $.elementResizeDiv = {
         settings: {
             pointCls: '.point',

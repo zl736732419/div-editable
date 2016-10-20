@@ -7,6 +7,7 @@
  * Created by zhenglian on 2016/10/19.
  */
 (function($) {
+	"use strict";
     $.elementContextMenuDiv = {
         settings: {
             items: null //右键菜单项

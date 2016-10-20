@@ -13,6 +13,7 @@
  *
  */
 (function($) {
+	"use strict";
     $.elementSelectDiv = {
         settings: {
             selectedCls : '.selected', //选中元素后要添加的样式类
