@@ -2,6 +2,7 @@
  * Created by zhenglian on 2016/10/20.
  */
 $(function() {
+	"use strict";
 
     $(document).off('contextmenu').on('contextmenu', function() {
         return false;
