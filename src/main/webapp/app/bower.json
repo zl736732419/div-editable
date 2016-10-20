@@ -1,0 +1,24 @@
+{
+  "name": "answerSheet",
+  "description": "the dependencies on answerSheet",
+  "main": "pages/index.html",
+  "keywords": [
+    "answerSheet"
+  ],
+  "authors": [
+    "zl"
+  ],
+  "license": "MIT",
+  "homepage": "localhost:8080/div-editable",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
