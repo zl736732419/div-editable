@@ -4,6 +4,7 @@
 $(function() {
 	"use strict";
 
+    // 禁用浏览器默认右键点击弹出菜单事件，右键菜单这里由jquery.smartMenu实现，需要自己定义菜单内容，见elementContextMenu.js
     $(document).off('contextmenu').on('contextmenu', function() {
         return false;
     });
